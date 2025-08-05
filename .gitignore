@@ -1,0 +1,12 @@
+# Node modules
+forusfrontend/node_modules/
+forusbackend/node_modules/
+
+# Log files
+*.log
+
+# Environment files
+forusbackend/.env
+
+# Build folder
+forusfrontend/build/
